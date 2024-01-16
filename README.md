@@ -1,2 +1,2 @@
 # ConflictoGit
-hola
+adios
