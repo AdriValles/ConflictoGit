@@ -1,2 +1,2 @@
 # ConflictoGit
-modificar la primera parte dle ejercicio
+modificar la rama  del ejercicio
